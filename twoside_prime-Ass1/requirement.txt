@@ -1,0 +1,9 @@
+Flask==1.1.1
+get==2019.4.13
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+mod-wsgi==4.7.0
+pkg-resources==0.0.0
+post==2019.4.13
+public==2019.4.13
+request==2019.4.13
